@@ -9,3 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojuniorpereira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuniorpereira&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
+  <a src="https://github-readme-stats.vercel.app/api/pin/?username=ojuniorpereira&repo=github-readme-stats"  href="https://github.com/ojuniorpereira/github-readme-stats" />
+
