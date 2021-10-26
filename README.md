@@ -22,4 +22,7 @@
   <a href="https://instagram.com/__juniorpereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5511958834067&text=Ol%C3%A1%20meu%20nome%20%C3%A9%20%7BSeu%20Nome%7D%2C%20peguei%20o%20seu%20contato%20no%20GitHub%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:juniorpereira9801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/ojuniorpereira/ojuniorpereira/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
